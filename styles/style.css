@@ -1,0 +1,26 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#landing{
+	background-color: #A3CEF1;
+}
+
+.navbar{
+	background-color: #E7ECEF;
+}
+
+.card{
+	background-color: #274C77;
+}
+
+#contact{
+	background-color: #274C77;
+}
+
+#formcontainer{
+	background-color: #6096BA;
+}
