@@ -7,9 +7,14 @@
 
 #landing{
 	background-color: #A3CEF1;
-	/*background-image:url("../images/city2.jpg");
-	background-size: cover;
-	height: 100vh;*/
+}
+
+#projects{
+	/*background-color: blanchedalmond;*/
+	}
+
+#tools{
+	background-color: #A3CEF1;
 }
 
 .navbar{
@@ -26,4 +31,8 @@
 
 #formcontainer{
 	background-color: #6096BA;
+}
+
+.logo{
+	width: 150;
 }
